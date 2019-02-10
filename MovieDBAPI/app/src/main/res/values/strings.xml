@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">MovieDBAPI</string>
-    <string name="pokemon">Ingrese Nombre de Pokemon</string>
+    <string name="pokemon">Ingrese Nombre de pelicula</string>
     <string name="Search">Search</string>
     <string name="Name">Nombre</string>
-    <string name="Height">Altura</string>
-    <string name="Peso">Peso</string>
+    <string name="Height">Reseña</string>
+    <string name="Peso">Lanzamiento</string>
     <string name="imPokemon">Pokemon</string>
 </resources>
